@@ -1,14 +1,13 @@
 # eos-icons-rails
 
-eos-icons-rails wraps the [EOS icons](https://gitlab.com/SUSE-UIUX/eos-icons) library in a Rails
-engine for simple use with the asset pipeline provided by Rails 3.1 and higher.
+This is the source for the [eos_icons](https://rubygems.org/gems/eos_icons) gem which wraps the [EOS icons](https://gitlab.com/SUSE-UIUX/eos-icons) library in a Rails engine for simple use with the asset pipeline provided by Rails 3.1 and higher.
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'eos-icons-rails'
+gem 'eos_icons'
 ```
 
 And then execute:
@@ -17,20 +16,20 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install eos-icons-rails
+    $ gem install eos_icons
 
 ## Usage
 
 Add the following directive to your `application.css`:
 
 ```
-*= require eos-icons
+*= require eos_icons
 ```
 
 ## Contributing
 
 Bug reports and pull requests regarding EOS icons should go to https://gitlab.com/SUSE-UIUX/eos-icons.
-If you find an issue with how this gem works, report it here: https://github.com/thutterer/eos--rails.
+If you find an issue with how this gem works, report it here: https://github.com/thutterer/eos-icons-rails.
 
 
 ## License
