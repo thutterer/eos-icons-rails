@@ -1,5 +1,7 @@
 # eos-icons-rails
 
+⚠️ **Archived. Please use https://rubygems.org/gems/eos-icons-font instead.**
+
 This is the source for the [eos_icons](https://rubygems.org/gems/eos_icons) gem which wraps the [EOS icons](https://gitlab.com/SUSE-UIUX/eos-icons) library in a Rails engine for simple use with the asset pipeline provided by Rails 3.1 and higher.
 
 ## Installation
